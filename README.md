@@ -1,3 +1,9 @@
+# AddonBetaManager v1.0
+
+Use this tool to download the latest beta or release versions of my ESO addons with one click.  
+
+[Download AddonBetaManager](https://github.com/ESOUIMods/-AddonBetaManager-binary/releases/download/ver_1.0/AddonBetaManager_v10.zip)
+
 # AddonBetaManager Utility
 
 AddonBetaManager is a small Windows utility that downloads and installs beta or release versions of selected Elder Scrolls Online addons directly into your AddOns folder. It is designed as a simple, safe way for users to test beta builds or quickly update supported addons without needing to download ZIP files manually.
