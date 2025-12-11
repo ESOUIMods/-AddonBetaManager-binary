@@ -2,7 +2,7 @@
 
 Use this tool to download the latest beta or release versions of my ESO addons with one click.  
 
-[Download AddonBetaManager](https://github.com/ESOUIMods/-AddonBetaManager-binary/releases/download/ver_1.0/AddonBetaManager_v10.zip)
+[Download AddonBetaManager](https://github.com/ESOUIMods/-AddonBetaManager-binary/releases/download/ver_3.0/AddonBetaManager_30.zip)
 
 # AddonBetaManager Utility
 
